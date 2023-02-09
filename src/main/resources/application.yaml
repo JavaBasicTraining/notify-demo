@@ -1,0 +1,7 @@
+one-signal:
+  root-url: https://onesignal.com/
+  api-key: ZTE4OGQzZmYtYjBhMS00MjY3LTljOTctNWE3NzI2MzAyOWQx
+  app-id: 63205169-377b-4a9f-8266-3d7a7863ccf4
+  properties:
+    notifications: api/v1/notifications
+    players: api/v1/players
